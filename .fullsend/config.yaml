@@ -20,13 +20,6 @@ create_issues:
         repos:
             - halfsend-12/test-repo-12
             - fullsend-ai/fullsend
-status_notifications:
-    comment:
-        start: enabled
-        completion: enabled
-    reaction:
-        start: enabled
-        completion: enabled
 mint_url: https://bt-e1012c62-bt-mint.fullsend-ai.workers.dev
 inference:
     project: it-gcp-konflux-e2e-fullsend
