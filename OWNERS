@@ -1,2 +1,3 @@
-approvers: []
+approvers:
+  - fstest-outsider
 reviewers: []
