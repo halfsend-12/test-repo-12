@@ -1,2 +1,2 @@
-approvers: []
-reviewers: []
+approvers:
+  - test-team
