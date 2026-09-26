@@ -1,1 +1,3 @@
-aliases: {}
+aliases:
+  test-team:
+    - fstest-outsider
